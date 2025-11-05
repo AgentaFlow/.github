@@ -2,7 +2,7 @@
 
 ## Your Cloud Workforce
 
-AgentaFlow empowers small and medium-sized commercial enterprises through innovative AI-driven solutions. We specialize in transforming business operations by integrating intelligent automation and agentic AI technologies that streamline workflows and enhance productivity.
+AgentaFlow empowers enterprises through innovative AI-driven solutions. We specialize in transforming business operations by integrating intelligent automation and agentic AI technologies that streamline workflows and enhance productivity.
 
 ### Our Services
 
